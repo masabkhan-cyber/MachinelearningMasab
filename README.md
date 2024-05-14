@@ -1,0 +1,3 @@
+Classification
+Regression
+Clustering
